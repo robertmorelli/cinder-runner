@@ -1,6 +1,0 @@
-[submodule "rep"]
-	path = rep
-	url = git@github.com:robertmorelli/static-python-perf.git
-[submodule "vol"]
-	path = vol
-	url = https://github.com/facebookincubator/cinder
